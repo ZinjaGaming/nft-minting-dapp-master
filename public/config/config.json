@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0xf83cdba6e37Feac9b4537c834738f86078b872aC",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf83cdba6e37feac9b4537c834738f86078b872ac",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Wonder Sheep",
+  "SYMBOL": "WS",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 35000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MAX_PER_TX": 20,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wonder-sheep",
+  "Telegram": "https://",
+  "Discord": "https://discord.com/invite/VhQX9uRvf9",
+  "Twitter": "https://twitter.com/SheepWonder",
+  "SHOW_BACKGROUND": false
+}
