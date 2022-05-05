@@ -9,7 +9,6 @@
   "NFT_NAME": "Wonder Sheep",
   "SYMBOL": "WS",
   "MAX_SUPPLY": 500,
-  "WEI_COST": 35000000000,
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
   "MAX_PER_TX": 20,
